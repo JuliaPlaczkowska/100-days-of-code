@@ -25,3 +25,22 @@ There are 3 types of design patterns:
 
 
 ### R1D2
+**Today's Progress:** Diving deeper into the creational design pattern theory based on [GoF Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8).
+
+**Notes:** *The Creational Patterns* are used to make design more flexible rather than smaller. Flexible design lets us change particular classes easily.
+
+
+*1. Abstract Factory*
+Intent: Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+*2. Builder*
+Intent: Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
+*3. Factory Method*
+Intent: Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+
+*4. Prototype*
+Intent: Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
+
+*5. Singleton*
+Intent: Ensure a class only has one instance, and provide a global point of access to it.
