@@ -77,3 +77,21 @@ An object's abstration separated from it's implementation.
 
 *6. Decorator*
 Adding responsibilities to objects *dinamically* by nesting one *decorator object* within another.
+
+### R1D4
+**Today's Progress:** Learning 10 new Linux commands from [The Linux Command Handbook by Flavio](https://www.freecodecamp.org/news/the-linux-commands-handbook/). 
+
+**Notes:**
+1. Create custom name for a command: ```alias <name>=<command>```. 
+  The alias will work until the terminal session is closed.
+2. Concatenate the content of multiple files into a new file: ```cat file1 file2 > file3```.
+3. Append the content of multiple files into a new file: ```cat file1 file2 >> file3```.
+4. Print the line number: ```cat -n file1```.
+5. Print non-blank line number: ```cat -n -b file1```.
+6. Feed a file input to another command: ```cat file1 | <another command>```.
+7.  Opens the file at the end, and watches for file changes: ```tail -f /var/log/system.log```.
+To exit, press ```ctrl-C ```.
+8. Print the whole file content starting from a specific line using + before the line number: ```tail -n +10```.
+9. Information about the file & input it receives via pipes: ```wc test.txt```.
+10. n find the occurences of the document.getElementById line in the index.md file:
+  ```grep document.getElementById index.md```.
