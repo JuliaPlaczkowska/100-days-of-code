@@ -95,3 +95,15 @@ To exit, press ```ctrl-C ```.
 9. Information about the file & input it receives via pipes: ```wc test.txt```.
 10. n find the occurences of the document.getElementById line in the index.md file:
   ```grep document.getElementById index.md```.
+  
+  ### R1D5
+**Today's Progress:** Learning about the behavioral design patterns theory based on [GoF Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8).
+
+**Notes:**
+
+*Behavioral Class Patterns*
+- *Template method* is an abstract definition of an algorithm.
+-  *Interpreter* which represents a grammar as a class hierarchy and implements an interpreter as an operation on instances of these classes.
+
+*Behavioral Object Patterns*
+Object composition rather than inheritance. Some describe how a group of peer objects cooperate to perform a task that no single object can carry out by itself.
