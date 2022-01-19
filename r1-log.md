@@ -107,3 +107,6 @@ To exit, press ```ctrl-C ```.
 
 *Behavioral Object Patterns*
 Object composition rather than inheritance. Some describe how a group of peer objects cooperate to perform a task that no single object can carry out by itself.
+
+### R1D6
+**Today's Progress:** Solving some Java algorithm exercises.
